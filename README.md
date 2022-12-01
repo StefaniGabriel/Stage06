@@ -1,15 +1,16 @@
 
+
 # Stage 06 - JavaScript antes do framework
 
-##Neste stage foram ensinados:
-### HTML
+### Neste stage foram ensinados:
+## HTML
 - Tabelas
 
-### CSS
+## CSS
 - Acessibilidade 
 - Background-image
 
-### JavaScript
+## JavaScript
 - Conceitos de SPA 
 - Eventos
 - Assincronismo
@@ -18,4 +19,5 @@
 - Imutalidade 
 - Tratamentos de erros
 - LocalStorage 
+
 
