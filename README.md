@@ -2,7 +2,7 @@
 # Stage 06 - JavaScript antes do framework
 
 ##Neste stage foram ensinados:
-##@# HTML
+### HTML
 - Tabelas
 
 ### CSS
