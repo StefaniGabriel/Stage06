@@ -1,6 +1,6 @@
 # Stage 06 - JavaScript antes do Framework
 
-## Foi ensinado nesse stage;
+### Foi ensinado nesse stage;
 
 ### HTML
 - Utilização de Tabelas para organização de dados.
