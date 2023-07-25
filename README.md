@@ -1,7 +1,5 @@
 #Stage 06 - JavaScript antes do Framework
 
-Neste estágio, você mergulhará em JavaScript antes de adentrar no mundo dos frameworks. Abordaremos tópicos essenciais que pavimentarão o caminho para seu sucesso no desenvolvimento web.
-
 ### HTML
 - Utilização de Tabelas para organização de dados.
 ### CSS
@@ -17,4 +15,4 @@ Neste estágio, você mergulhará em JavaScript antes de adentrar no mundo dos f
 - Tratamento de erros adequado para criar aplicações mais robustas.
 - Manipulação do LocalStorage para armazenamento de dados no navegador.
 
-Com os conhecimentos adquiridos neste estágio, você estará pronto para enfrentar os desafios de construir aplicações web modernas e eficientes.
+
